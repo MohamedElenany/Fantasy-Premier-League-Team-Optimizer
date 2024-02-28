@@ -27,3 +27,11 @@ Throughout the 2022-2023 season, the optimization model consistently proved its 
 The success of the optimization model in Fantasy Premier League (FPL) team management extends beyond the realm of sports analytics, demonstrating broad applicability and significant implications. The project showcases the potential of integrating statistical models and optimization techniques in decision-making processes. In the context of sports management, the project emphasizes leveraging historical performance data, incorporating forward-looking metrics, and considering real-time dynamics for effective team composition. This approach holds relevance for sports organizations aiming to optimize player selection and overall team performance.
 
 The significance of this project lies in its potential to revolutionize decision-making processes by providing actionable insights from complex datasets. As data-driven decision-making becomes integral across industries, the methodologies employed here serve as a model for harnessing the power of data and optimization to achieve strategic objectives. In conclusion, the Fantasy Premier League optimization model not only offers a competitive advantage in FPL but also paves the way for broader applications of data-driven decision-making methodologies, contributing to the advancement of strategic planning and performance optimization.
+
+
+## Files Uploaded: 
+- *Project_Report.pdf* : Contains a comprehensive description of the project steps.
+- *Project_Presentation.pdf* : Contains a powerpoint presentation of the project steps.
+- *Data_Preproccessing.ipynb* : Contains the code for preproccessing steps required to clean the gathered data.
+- *Gurobi_Model.ipynb* : Contains the code for the optimization model.
+
